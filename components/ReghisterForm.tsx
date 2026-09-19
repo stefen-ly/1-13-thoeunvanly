@@ -119,7 +119,7 @@ export default function RegisterForm() {
             <Input
               id="email"
               type="email"
-              placeholder="you@example.com"
+              placeholder="koko@gmail.com"
               {...form.register("email")}
             />
 
